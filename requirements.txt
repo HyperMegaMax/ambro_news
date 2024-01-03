@@ -1,6 +1,6 @@
 feedparser
 dateparser==0.7.6
-pygooglenews==0.1.2
+pygooglenews==0.1.1
 python-dateutil==2.8.2
 requests
 beautifulsoup4
